@@ -3,6 +3,7 @@ version = "1.0"
 [task]
 name = "mgrange1998/hardening-000-task-01"
 format = "swe_bench_single_turn"
+track_assignment = "swe-bench-external-repos"  # inherited
 workstream = "swe_public_repo"
 description = "Derisk task 1 for repogen hardening evolution loop"
 authors = [{ name = "Matthew Grange", email = "mgrange@meta.com" }]
